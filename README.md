@@ -81,7 +81,8 @@ test('Deve inserir um novo agendamento', async () => {
 });
 ````
 
-Considerações Finais
+## Considerações Finais
+
 Sinta-se à vontade para modificar e expandir os testes conforme necessário. Este projeto serve como uma base para implementação de um sistema de agendamentos, e os testes garantem que as operações básicas funcionem corretamente.
 
 
